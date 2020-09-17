@@ -1,0 +1,2 @@
+# bm25 [![PkgGoDev](https://pkg.go.dev/badge/github.com/go-nlp/bm25)](https://pkg.go.dev/github.com/go-nlp/bm25) [![Build Status](https://travis-ci.org/go-nlp/bm25.svg?branch=master)](https://travis-ci.org/go-nlp/bm25) [![Coverage Status](https://coveralls.io/repos/github/go-nlp/bm25/badge.svg?branch=master)](https://coveralls.io/github/go-nlp/bm25?branch=master)
+bm25 is a scoring function that helps with information retrieval
