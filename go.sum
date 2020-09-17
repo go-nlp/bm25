@@ -1,0 +1,4 @@
+github.com/go-nlp/tfidf v1.0.0 h1:usRGZjJO/MkU4Oq2Xa836MTpAgfhyb2kLyIkjnKfWY0=
+github.com/go-nlp/tfidf v1.0.0/go.mod h1:FHOpf09wrdELx7OnbxywpW4Cs0Q3r15QzpOc73rmUTo=
+github.com/xtgo/set v1.0.0 h1:6BCNBRv3ORNDQ7fyoJXRv+tstJz3m1JVFQErfeZz2pY=
+github.com/xtgo/set v1.0.0/go.mod h1:d3NHzGzSa0NmB2NhFyECA+QdRp29oEn2xbT+TpeFoM8=
